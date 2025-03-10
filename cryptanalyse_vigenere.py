@@ -1,8 +1,6 @@
-# Sorbonne Université 3I024 2021-2022
+
 # TME 2 : Cryptanalyse du chiffre de Vigenere
-#
-# Etudiant.e 1 : TAFOUGHALT 21200397
-# Etudiant.e 2 : SAIDENE 21209708
+
 
 import sys, getopt, string, math
 
